@@ -4,6 +4,7 @@ build-backend = 'flit_core.buildapi'
 
 [tool.flit.metadata]
 module = 'anndata2ri'
+version = 'v1.0.6a'
 author = 'Philipp A.'
 author-email = 'flying-sheep@web.de'
 description-file = 'README.rst'
